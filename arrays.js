@@ -13,3 +13,8 @@ console.log(grades);
 //Calling the shift method will return all elements in an array, less the first element.
 statements.shift()
 console.log(statements);
+
+//Index positions serve the same purpose as numbered tickets do for a deli, by representing an individual in a larger 
+//collection of people/entities. When the number on the ticket is announced, the person it represents is identified within the group.
+//The group of people at the deli could be considered to be the array, and the ticket numbers could be used like an index position
+// to identify where they are in the waiting queue and who is being called to the counter.
